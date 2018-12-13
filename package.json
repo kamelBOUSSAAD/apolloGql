@@ -1,0 +1,26 @@
+{
+  "name": "apllogql",
+  "version": "1.0.0",
+  "description": "App tha lists SpaceX launche missions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apollo",
+    "server",
+    "GraphQL",
+    "Backend"
+  ],
+  "author": "kamel boussaad",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.8"
+  }
+}
